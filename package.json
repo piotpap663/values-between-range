@@ -1,0 +1,25 @@
+{
+  "name": "values-between-range",
+  "version": "1.0.0",
+  "description": "Return values between given range",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotpap663/values-between-range.git"
+  },
+  "keywords": [
+    "between",
+    "numbers",
+    "values",
+    "range"
+  ],
+  "author": "Piotr Papiernik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piotpap663/values-between-range/issues"
+  },
+  "homepage": "https://github.com/piotpap663/values-between-range#readme"
+}
