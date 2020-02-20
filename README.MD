@@ -16,7 +16,7 @@ var values_between = require('values-between-range')
 ```
 ## React
 ```js
-import values-between-range from 'values-between-range';
+import vbr from 'values-between-range';
 ```
 #### values_between( min, max, howMany, precision )
 * ##### *min* - minimum value
