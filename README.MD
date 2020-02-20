@@ -5,10 +5,18 @@ Return values between given range
 [![NPM](https://nodei.co/npm/values-between-range.png)](https://nodei.co/npm/values-between-range/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)]()
 
+## Install
 
-##
+```
+npm install values-between-range
+```
+## Add to project
 ```js
 var values_between = require('values-between-range')
+```
+## React
+```js
+import values-between-range from 'values-between-range';
 ```
 #### values_between( min, max, howMany, precision )
 * ##### *min* - minimum value
