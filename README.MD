@@ -1,7 +1,6 @@
 # values-between-range
 
 Return values between given range
-https://www.npmjs.com/package/values-between-range
 [![NPM](https://nodei.co/npm/values-between-range.png)](https://nodei.co/npm/values-between-range/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)]()
 
