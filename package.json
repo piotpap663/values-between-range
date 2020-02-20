@@ -1,7 +1,7 @@
 {
   "name": "values-between-range",
   "version": "1.0.0",
-  "description": "Return values between given range",
+  "description": "Return values between given range | Array of all integers between two numbers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
