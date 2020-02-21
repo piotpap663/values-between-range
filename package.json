@@ -1,6 +1,6 @@
 {
   "name": "values-between-range",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return values between given range | Array of all integers between two numbers",
   "main": "index.js",
   "scripts": {
